@@ -6,9 +6,9 @@
 
 The TaHiTI methodology aims to enhance the practice of threat hunting by offering organizations a standardized and repeatable approach to their investigations. It incorporates threat intelligence throughout its execution, employing three distinct phases and six steps. These phases, namely "initialize," "hunt," and "finalize," enable organizations to seamlessly connect the threat hunting process with other relevant processes, particularly the threat intelligence process. TaHiTI draws upon practical experience and consolidates existing resources into a comprehensive methodology.
 
-https://www.betaalvereniging.nl/en/safety/tahiti/
-https://www.betaalvereniging.nl/wp-content/uploads/DEF-TaHiTI-Threat-Hunting-Methodology.pdf
-https://www.betaalvereniging.nl/wp-content/uploads/TaHiTI-Threat-Hunting-Methodology-whitepaper.pdf
+- https://www.betaalvereniging.nl/en/safety/tahiti/
+- https://www.betaalvereniging.nl/wp-content/uploads/DEF-TaHiTI-Threat-Hunting-Methodology.pdf
+- https://www.betaalvereniging.nl/wp-content/uploads/TaHiTI-Threat-Hunting-Methodology-whitepaper.pdf
 
 ### MaGMa Use Case Framework
 
