@@ -4,9 +4,7 @@
 
 ### TaHiTI (Targeted Hunting integrating Threat Intelligence)
 
-The TaHiTI methodology for threat hunting is created with real hunting practice in mind and provides organization with a standardized and repeatable approach to their hunting investigations. The methodology uses 3 phases and 6 steps and integrates threat intelligence throughout its execution. These 3 phases are “initialize” (process input), “hunt” (the execution phase) and “finalize” (process output). Organizations can use the TaHiTI methodology to connect the threat hunting process to other processes, especially the threat intelligence process. TaHiTI is based on practical experience and aggregates existing resources into a single comprehensible methodology.
-
-TaHiTI is supported by the "MaGMa for threat hunting tool", which can be used to provide insight into the results of the process and guidance for improvement. Organizations already using the MaGMa use case framework will be able to easily integrate the threat hunting and security monitoring processes.
+The TaHiTI methodology aims to enhance the practice of threat hunting by offering organizations a standardized and repeatable approach to their investigations. It incorporates threat intelligence throughout its execution, employing three distinct phases and six steps. These phases, namely "initialize," "hunt," and "finalize," enable organizations to seamlessly connect the threat hunting process with other relevant processes, particularly the threat intelligence process. TaHiTI draws upon practical experience and consolidates existing resources into a comprehensive methodology.
 
 https://www.betaalvereniging.nl/en/safety/tahiti/
 https://www.betaalvereniging.nl/wp-content/uploads/DEF-TaHiTI-Threat-Hunting-Methodology.pdf
@@ -16,7 +14,7 @@ https://www.betaalvereniging.nl/wp-content/uploads/TaHiTI-Threat-Hunting-Methodo
 
 **MaGMa (Management, Growth and Metrics & assessment)**
 
-The MaGMa Use Case Framework (UCF) is a framework and tool for use case management and administration that helps organizations to operationalize their security monitoring strategy. MaGMa stands for Management, Growth, Metrics & assessment. These are the pillars of the framework that help to guide the use case management process. The MaGMa framework covers everything from the creation of new use cases to maintenance of use cases, growing and maturing existing use case, and embedding use case management in a continuous improvement approach. The MaGMa UCF provides the capability to be in control over your security monitoring process and the alignment of security monitoring to business and compliance needs. The framework provides the ability to prove to your stakeholders that the SOC is in control and adequately managing and decreasing risk in the enterprise.
+The MaGMa Use Case Framework (UCF) is a comprehensive tool for managing and administering use cases, empowering organizations to operationalize their security monitoring strategy. With pillars of Management, Growth, Metrics & assessment, the framework covers everything from creating and maintaining use cases to ensuring alignment with business and compliance needs. The MaGMa UCF enables organizations to demonstrate control over their security monitoring process and effectively manage risk in the enterprise.
 
 - https://www.betaalvereniging.nl/en/safety/magma/
 - [Use Case Framework](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-Use-Case-Framework-Full-Documentation.pdf)
