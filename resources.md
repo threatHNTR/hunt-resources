@@ -20,3 +20,18 @@ The MaGMa Use Case Framework (UCF) is a comprehensive tool for managing and admi
 - [Use Case Framework](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-Use-Case-Framework-Full-Documentation.pdf)
 - [Use Case Framework (whitepaper)](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf)
 - [MaGMa UCF Tool](https://www.betaalvereniging.nl/wp-content/uploads/Magma-UCF-Tool.xlsx)
+
+## Purple Team
+
+### Purple Team Framework
+
+This document defines how to build and mature a Purple Team program from ad-hoc Purple Team Exercises, to Operationalized Purple Teaming, to building a Dedicated Purple Team. Purple Team Exercises are an efficient method to test, measure, and improve your organization's resilience to a real cyber attack.
+
+- https://github.com/scythe-io/purple-team-exercise-framework
+
+### Caldera
+
+MITRE Caldera™ is a cyber security platform designed to easily automate adversary emulation, assist manual red-teams, and automate incident response.
+
+- https://github.com/mitre/caldera
+- https://caldera.readthedocs.io/en/latest/
